@@ -103,7 +103,7 @@ No meu fluxo, **a especificação vem antes do código**. Ela é a fonte da verd
 
 <!-- Fixe seus melhores repositórios no perfil (Customize your pins) ou liste-os aqui: -->
 <!--
-- **[nome-do-projeto](https://github.com/SEU_USUARIO/nome-do-projeto)**: o que ele faz em uma linha · `FastAPI` `Docker`
+- **[Smartfarm Irrigation][https://github.com/Vitor-Santos12/nome-do-projeto](https://github.com/Vitor-Santos12/smart_farming_tcc))**: o que ele faz em uma linha · `FastAPI` `Docker`
 -->
 
 ---
@@ -112,8 +112,8 @@ No meu fluxo, **a especificação vem antes do código**. Ela é a fonte da verd
 
 <!-- Troque SEU_USUARIO pelo seu nome de usuário do GitHub -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vitor-Santos12&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Santos12&layout=compact&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
 ---
