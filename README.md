@@ -64,6 +64,30 @@ Sou engenheiro eletricista e trabalho entre o hardware e o software: passei 5 an
 
 ---
 
+## 📐 Como eu desenvolvo: Spec-Driven Development (SDD)
+
+No meu fluxo, **a especificação vem antes do código**. Ela é a fonte da verdade para mim, para o time e para os agentes de IA que me ajudam a implementar.
+
+```
+ Especificar  ──▶  Planejar  ──▶  Quebrar em tarefas  ──▶  Implementar  ──▶  Validar
+  (o quê/por quê)  (como)        (pequenas e testáveis)   (TDD + IA)        (spec × código)
+```
+
+**Boas práticas que sigo**
+
+- 📝 **Spec primeiro**: descrevo o problema, os requisitos, os critérios de aceite e o que fica fora do escopo antes de abrir o editor
+- 📜 **Princípios do projeto por escrito**: um documento com padrões de arquitetura, convenções e regras de qualidade que toda mudança precisa respeitar
+- 🗺️ **Plano técnico separado da spec**: a spec diz *o quê* e *por quê*, e o plano diz *como* (stack, contratos de API, modelo de dados)
+- ✂️ **Tarefas pequenas e verificáveis**: cada tarefa tem uma entrega clara e pode ser revisada sozinha
+- ✅ **Critérios de aceite viram testes**: TDD direto da spec, de modo que a especificação passa a ser executável
+- 🤖 **IA guiada por contexto**: Claude Code recebe a spec, o plano e as regras do projeto (skills e MCP), em vez de prompts soltos
+- 🔁 **Spec viva e versionada**: as specs ficam no Git junto com o código, e quando o requisito muda eu atualizo a spec antes do código
+- 🔍 **Revisão contra a spec**: no code review, a pergunta principal é "isso atende ao que foi especificado?"
+
+**Base de engenharia por trás:** Clean Architecture · DDD · TDD · Design Patterns · CI/CD com Docker
+
+---
+
 ## 💼 Trajetória
 
 | Período | Função | Onde |
