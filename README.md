@@ -101,16 +101,29 @@ No meu fluxo, **a especificação vem antes do código**. Ela é a fonte da verd
 
 ## 📌 Projetos em destaque
 
-<!-- Fixe seus melhores repositórios no perfil (Customize your pins) ou liste-os aqui: -->
-<!--
-- **[Smartfarm Irrigation][https://github.com/Vitor-Santos12/nome-do-projeto](https://github.com/Vitor-Santos12/smart_farming_tcc))**: o que ele faz em uma linha · `FastAPI` `Docker`
--->
+### 🌱 IoT e Agricultura Inteligente
+
+- **[programmed_irrigation_esp32](https://github.com/Vitor-Santos12/programmed_irrigation_esp32)**: sistema de irrigação programada com ESP32, que aciona a irrigação nos horários definidos · `C` `ESP32` `IoT`
+- **[smart_farming_tcc](https://github.com/Vitor-Santos12/smart_farming_tcc)**: meu TCC em Engenharia Elétrica (UFG), sobre agricultura inteligente · `C++` `Sistemas embarcados`
+
+### 🤖 Robótica
+
+- **[fira_hackathon_workspace](https://github.com/Vitor-Santos12/fira_hackathon_workspace)**: workspace ROS que eu usei no **World FIRA 2024** (Toulouse, França). Ele cria o ambiente e clona todos os pacotes necessários · `ROS` `C++`
+- **[solution_auriga_berenice](https://github.com/Vitor-Santos12/solution_auriga_berenice)**: solução desenvolvida em C++ para o desafio · `C++` `ROS`
+
+### ⚙️ Sistemas Embarcados e Tempo Real
+
+- **[RTOSEstudos](https://github.com/Vitor-Santos12/RTOSEstudos)**: estudos de sistemas operacionais de tempo real (RTOS) · `C++` `RTOS`
+- **[stepper_motor](https://github.com/Vitor-Santos12/stepper_motor)**: controle de motor de passo · `C`
+- **[class_exercises_advanced_c_programming](https://github.com/Vitor-Santos12/class_exercises_advanced_c_programming)**: exercícios de programação avançada em C · `C`
+
+<sub>Mais em <a href="https://github.com/Vitor-Santos12?tab=repositories">todos os repositórios</a>, incluindo <a href="https://github.com/Vitor-Santos12/python_course">python_course</a> e <a href="https://github.com/Vitor-Santos12/scripts_docker">scripts_docker</a>.</sub>
 
 ---
 
 ## 📊 Estatísticas
 
-<!-- Troque SEU_USUARIO pelo seu nome de usuário do GitHub -->
+<!-- Troque Vitor-Santos12 pelo seu nome de usuário do GitHub -->
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vitor-Santos12&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Santos12&layout=compact&hide_border=true" alt="Linguagens mais usadas">
