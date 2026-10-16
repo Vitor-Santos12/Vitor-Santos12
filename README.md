@@ -13,9 +13,9 @@
 
 ## 🧭 Sobre mim
 
-Sou engenheiro eletricista e trabalho entre o hardware e o software: passei 5 anos operando o sistema elétrico de Goiás, coordenei equipes de desenvolvimento no setor público e hoje construo APIs, aplicações web e mobile.
+Sou engenheiro eletricista e trabalho entre o hardware e o software: passei 5 anos operando o sistema elétrico de Goiás, coordenei equipes de desenvolvimento no setor público e hoje Automações e sistemas em Python, aplicações web e mobile.
 
-- 🔭 Hoje sou **Desenvolvedor Sênior na G4F**, com **FastAPI**, microsserviços, **Laravel** e **React Native**
+- 🔭 Hoje sou **Desenvolvedor Sênior na G4F**, **Python**, **Laravel** e **React Native**
 - 🌱 Faço pós-graduação em **Engenharia de Machine Learning** (DSA, 2026–2027)
 - 🎓 Tenho **MBA em Engenharia de Software** (USP/ESALQ): Clean Architecture, DDD, TDD e DevOps
 - 🤖 Uso IA no dia a dia de desenvolvimento: **Claude Code** e **Google Antigravity**, com skills e servidores MCP
@@ -40,6 +40,7 @@ Sou engenheiro eletricista e trabalho entre o hardware e o software: passei 5 an
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
 
 **Dados e Machine Learning**
 
