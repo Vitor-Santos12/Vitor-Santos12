@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Vitor 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Python Sênior · Engenheiro Eletricista (UFG) · Machine Learning em formação</strong>
+  <strong>Desenvolvedor Python · Engenheiro Eletricista (UFG) · Machine Learning em formação</strong>
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## 🧭 Sobre mim
 
-Sou engenheiro eletricista e trabalho entre o hardware e o software: passei 5 anos operando o sistema elétrico de Goiás, coordenei equipes de desenvolvimento no setor público e hoje Automações e sistemas em Python, aplicações web e mobile.
+Sou engenheiro eletricista e trabalho entre o hardware e o software: passei 5 anos operando o sistema elétrico de Goiás, coordenei equipes de desenvolvimento no setor público e hoje desenvolvo APIs, automações e sistemas em Python, além de aplicações web e mobile.
 
-- 🔭 Hoje sou **Desenvolvedor Sênior na G4F**, **Python**, **Laravel** e **React Native**
+- 🔭 Hoje sou **desenvolvedor na G4F**, atuando com **Python (FastAPI)**, **Laravel** e **React Native**
 - 🌱 Faço pós-graduação em **Engenharia de Machine Learning** (DSA, 2026–2027)
 - 🎓 Tenho **MBA em Engenharia de Software** (USP/ESALQ): Clean Architecture, DDD, TDD e DevOps
 - 🤖 Uso IA no dia a dia de desenvolvimento: **Claude Code** e **Google Antigravity**, com skills e servidores MCP
@@ -40,15 +40,18 @@ Sou engenheiro eletricista e trabalho entre o hardware e o software: passei 5 an
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Dados e Machine Learning**
+**Dados**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+
+**Machine Learning (em formação, pós DSA 2026–2027)**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
 
 **Infra e DevOps**
 
@@ -94,7 +97,9 @@ No meu fluxo, **a especificação vem antes do código**. Ela é a fonte da verd
 | Período | Função | Onde |
 |---|---|---|
 | 2026 – atual | Desenvolvedor Sênior | G4F |
-| 2022 – 2026 | Coordenador de Desenvolvimento e Gestor de Contratos | GOINFRA |
+| 2025 – 2026 | Coordenador de Desenvolvimento de Software | GOINFRA |
+| 2023 – 2025 | Gestor de Contratos de TI | GOINFRA |
+| 2022 – 2023 | Operador de Sistema: automações em Python e formulários web | CelgPar |
 | 2017 – 2022 | Operador de Sistemas Elétricos (SAGE) | CELG GT |
 | 2016 | Estágio em Engenharia Elétrica: PCBs, firmware C/C++ e sistemas embarcados | Itacolomi |
 
@@ -109,8 +114,8 @@ No meu fluxo, **a especificação vem antes do código**. Ela é a fonte da verd
 
 ### 🤖 Robótica
 
-- **[fira_hackathon_workspace](https://github.com/Vitor-Santos12/fira_hackathon_workspace)**: workspace ROS que eu usei no **World FIRA 2024** (Toulouse, França). Ele cria o ambiente e clona todos os pacotes necessários · `ROS` `C++`
-- **[solution_auriga_berenice](https://github.com/Vitor-Santos12/solution_auriga_berenice)**: solução desenvolvida em C++ para o desafio · `C++` `ROS`
+- **[fira_hackathon_workspace](https://github.com/Vitor-Santos12/fira_hackathon_workspace)**: fork do workspace ROS oficial do hackathon, que usei no **World FIRA 2024** (Toulouse, França). Ele cria o ambiente e clona todos os pacotes necessários · `ROS` `fork`
+- **[solution_auriga_berenice](https://github.com/Vitor-Santos12/solution_auriga_berenice)**: solução em C++ para o desafio *Forest Fire*, que simula a detecção de incêndios por aviões e verifica se toda a área da floresta foi observada · `C++` `Algoritmos`
 
 ### ⚙️ Sistemas Embarcados e Tempo Real
 
@@ -124,7 +129,6 @@ No meu fluxo, **a especificação vem antes do código**. Ela é a fonte da verd
 
 ## 📊 Estatísticas
 
-<!-- Troque Vitor-Santos12 pelo seu nome de usuário do GitHub -->
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vitor-Santos12&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Santos12&layout=compact&hide_border=true" alt="Linguagens mais usadas">
